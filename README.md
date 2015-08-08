@@ -1,2 +1,2 @@
-# FIERCEGreenHackathon.github.io
+# FIERCEGreenHacks.github.io
 Repository for Green Hackathon 
