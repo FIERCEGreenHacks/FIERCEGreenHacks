@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+
+.parallax-container {
+  color: white;
+}
+
+.parallax img {
+  display: initial;
+}
+
+footer.page-footer {
+  margin-top: 0px;
+}
